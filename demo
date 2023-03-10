@@ -6,3 +6,6 @@ git log
 git init 
 git branch 
 git checkout git merge
+git branch 
+git merge 
+git branch -d 
